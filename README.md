@@ -4,4 +4,4 @@
 - mapping the fact & its source with the picture
 
 # Important
-- please provide your OpenAI API-Key by renaming the ".env_template" file to ".env" and inserting the key 
+- please provide your OpenAI API-Key by renaming the ".env_template" file to ".env" and inserting the key
